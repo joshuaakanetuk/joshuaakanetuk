@@ -7,5 +7,5 @@
 
 
 <p align="center"><a href="https://joshuaakanetuk.com" title="Joshua Akan-Etuk">
-  <img src="assets/favicon.png" alt="">
+  <img src="favicon.png" alt="">
 </a></p>
