@@ -6,5 +6,5 @@
 😄 Pronouns: he/they
 
 <p align="center"><a href="https://joshuaakanetuk.com" title="Joshua Akan-Etuk">
-  <img src="assets/favicon.png" alt="">
+  <img src="https://github.com/joshuaakanetuk/joshuaakanetuk/raw/master/assets/favicon.png" alt="">
 </a></p>
