@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ✨`Client`, a freelancer/digital agency dashboard \
-🌱 I’m currently learning React \
+🔭 I’m currently finishing up on v.1 of ✨`Client`, a freelancer/digital agency dashboard \
+🌱 I’m currently learning Data Structures \
 📫 How to reach me: joshuaakanetuk@gmail.com \
 😄 Pronouns: he/they
 
