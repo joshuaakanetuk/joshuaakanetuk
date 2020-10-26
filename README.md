@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently starting v.1 of ✨`Atomic`, a have-done lifelogging application. \
+🔭 I’m currently finishing v.1 of ✨`Atomic`, a have-done lifelogging application. \
 🌱 I’m currently learning Data Structures \
 📫 How to reach me: joshuaakanetuk@gmail.com \
 😄 Pronouns: he/they
