@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ✨`uju`. \
-🌱 I’m currently learning Data Structures \
+🌱 I’m currently onboarding for my job. \
 📫 How to reach me: joshuaakanetuk@gmail.com \
 😄 Pronouns: he/they
 
