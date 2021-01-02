@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ✨`uju`. \
+🔭 I’m currently working on ✨`admin fka uju`. \
 🌱 I’m currently onboarding for my job. \
 📫 How to reach me: joshuaakanetuk@gmail.com \
 😄 Pronouns: he/they
