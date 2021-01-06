@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ✨`admin`. \
+🔭 I’m currently working on ✨`admin` and my job. \
 🌱 I’m currently onboarding for my job. \
 📫 How to reach me: joshuaakanetuk@gmail.com \
 😄 Pronouns: he/they
